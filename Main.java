@@ -35,7 +35,7 @@ public class Main {
 //			System.out.println(cid + " " + gg.get(cid).lightSettingHistory[0]);
 //			System.out.println(traffic.getStatue(cid, 0));
 //		}
-		System.out.println("init input over");
+		//System.out.println("init input over");
 		
 		// main process
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
